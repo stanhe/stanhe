@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning golang
+- ✅ hobby: Basketball、Dota、Hearthstone
+- 📫 How to reach me: ⬅ Email
+- ⚡ Fun fact: love coding
+
 <!--
 **stanhe/stanhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
