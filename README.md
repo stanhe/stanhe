@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently playing with my Raspberry Pi
 - ✅ hobby: Basketball、Dota、Hearthstone
 - 📫 How to reach me: ⬅ Email
 - ⚡ Fun fact: love coding
