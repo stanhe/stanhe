@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - 🌱 Doing some funny projects with Raspberry Pi
-- ✅ hobby: Basketball、Dota、Hearthstone
+- 🌃 Sparetime:learning、diy tools、write software for myself
+- ⚽ Hobby: 📚 ⛰️ 🏊 🏀 🏓 🏸 🎱 🎮 
 - 📫 How to reach me: ⬅ Email
-- ⚡ Fun fact: diy tools
-
 <!--
 **stanhe/stanhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
