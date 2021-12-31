@@ -1,9 +1,16 @@
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=stanhe&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<!-- <img src="http://stanhe.github.io/assets/images/avatar.jpg" width="20%" align="top"/> -->
 
 ### Hi there 👋
 
+<p>I'm <a href="http://stanhe.github.io/">stan</a>,like 
+explore new knowlege and skills.</p>
+
+### More
+
 - 🌱 Doing some funny projects with Raspberry Pi
-- 🌃 Sparetime:learning、diy tools、write software for myself
+- 🌃 Sparetime: learning、diy tools
 - ⚽ Hobby: 📚 ⛰️ 🏊 🏀 🏓 🏸 🎱 🎮 
 - 📫 How to reach me: ⬅ Email
 <!--
